@@ -1,3 +1,8 @@
 /.git
+/.gitmodules
 python/.git
+python/.gitmodules
+scm/.git
+scm/.gitmodules
 scm/svn/.git
+scm/svn/.gitmodules
