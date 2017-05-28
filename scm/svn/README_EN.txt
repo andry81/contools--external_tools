@@ -1,13 +1,14 @@
 * README_EN.txt
-* 2017.05.07
+* 2017.05.28
 * SVN command line tools
 
 1. DESCRIPTION
-2. SOURCES
-2.1. Source files
-2.2. Download links
-3. TESTS
-4. AUTHOR EMAIL
+2. REPOSITORIES
+3. SOURCES
+3.1. Source files
+3.2. Download links
+4. TESTS
+5. AUTHOR EMAIL
 
 -------------------------------------------------------------------------------
 1. DESCRIPTION
@@ -15,21 +16,25 @@
 Different SVN command line binary implementations downloaded from different
 sources. Collected together for testing purposes.
 
-The project is a shared source for another projects can be downloaded from:
-* sf.net/p/svncmd
-* sf.net/p/contools
+-------------------------------------------------------------------------------
+2. REPOSITORIES
+-------------------------------------------------------------------------------
+* Primary:
+  - https://svn.code.sf.net/p/contools/external_tools/trunk
+* Socondary:
+  - https://github.com/andry81/external_tools.git
 
 -------------------------------------------------------------------------------
-2. SOURCES
+3. SOURCES
 -------------------------------------------------------------------------------
 
 -------------------------------------------------------------------------------
-2.1. Source files
+3.1. Source files
 -------------------------------------------------------------------------------
 subversion.apache.org/download.cgi
 
 -------------------------------------------------------------------------------
-2.2. Download links
+3.2. Download links
 -------------------------------------------------------------------------------
 Some sort of popularity index for Windows:
   * stackoverflow.com/questions/2341134/command-line-svn-for-windows
@@ -73,16 +78,16 @@ StackOverflow link:
   - sourceforge.net/projects/win32svn/files
 
 -------------------------------------------------------------------------------
-3. AUTHOR EMAIL
+4. TESTS
 -------------------------------------------------------------------------------
 The directory does include only simple tests just to ensure that the executables
 can be invoked.
 
 The full tests are part of another projects:
-* sf.net/p/svncmd
-* sf.net/p/contools
+* svncmd
+* contools
 
 -------------------------------------------------------------------------------
-4. AUTHOR EMAIL
+5. AUTHOR EMAIL
 -------------------------------------------------------------------------------
 andry at inbox dot ru
