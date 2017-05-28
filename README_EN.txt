@@ -18,6 +18,12 @@ External command line tools:
   * visualsvn-win32 (1.9.5)
   * win32svn (1.8.17, 1.7.22)
 
+The latest version is here: sf.net/p/contools
+
+WARNING:
+  Use the SVN access to find out new functionality and bug fixes:
+    https://svn.code.sf.net/p/contools/external_tools/trunk
+
 -------------------------------------------------------------------------------
 2. REPOSITORIES
 -------------------------------------------------------------------------------
