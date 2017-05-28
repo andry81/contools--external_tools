@@ -29,7 +29,7 @@ WARNING:
 -------------------------------------------------------------------------------
 Primary:
   * https://svn.code.sf.net/p/contools/external_tools/trunk
-Socondary:
+Secondary:
   * https://github.com/andry81/external_tools.git
 
 -------------------------------------------------------------------------------
