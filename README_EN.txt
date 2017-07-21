@@ -1,10 +1,11 @@
 * README_EN.txt
-* 2017.05.28
+* 2017.07.21
 * External command line tools
 
 1. DESCRIPTION
-2. REPOSITORIES
-3. AUTHOR EMAIL
+2. DEPENDENCIES
+3. REPOSITORIES
+4. AUTHOR EMAIL
 
 -------------------------------------------------------------------------------
 1. DESCRIPTION
@@ -25,7 +26,17 @@ WARNING:
     https://svn.code.sf.net/p/contools/external_tools/trunk
 
 -------------------------------------------------------------------------------
-2. REPOSITORIES
+2. DEPENDENCIES
+-------------------------------------------------------------------------------
+External dependencies:
+  * Windows UCRT runtime for the app-local distribution (from the Windows 10
+    SDK).
+    Might require to run the python and other tools. If so then copy them into
+    the root of the application executable.
+    See details here: https://blogs.msdn.microsoft.com/vcblog/2015/03/03/introducing-the-universal-crt/
+
+-------------------------------------------------------------------------------
+3. REPOSITORIES
 -------------------------------------------------------------------------------
 Primary:
   * https://svn.code.sf.net/p/contools/external_tools/trunk
@@ -33,6 +44,6 @@ Secondary:
   * https://github.com/andry81/external_tools.git
 
 -------------------------------------------------------------------------------
-3. AUTHOR EMAIL
+4. AUTHOR EMAIL
 -------------------------------------------------------------------------------
 andry at inbox dot ru
