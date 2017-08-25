@@ -22,8 +22,8 @@ External command line tools:
 The latest version is here: sf.net/p/contools
 
 WARNING:
-  Use the SVN access to find out new functionality and bug fixes:
-    https://svn.code.sf.net/p/contools/external_tools/trunk
+  Use the SVN access to find out new functionality and bug fixes.
+  See the REPOSITORIES section.
 
 -------------------------------------------------------------------------------
 2. DEPENDENCIES
