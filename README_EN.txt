@@ -1,5 +1,5 @@
 * README_EN.txt
-* 2017.07.21
+* 2017.08.25
 * External command line tools
 
 1. DESCRIPTION
@@ -40,8 +40,10 @@ External dependencies:
 -------------------------------------------------------------------------------
 Primary:
   * https://svn.code.sf.net/p/contools/external_tools/trunk
-Secondary:
+First mirror:
   * https://github.com/andry81/external_tools.git
+Second mirror:
+  * https://bitbucket.org/andry81/external_tools.git
 
 -------------------------------------------------------------------------------
 4. AUTHOR EMAIL
