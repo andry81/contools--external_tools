@@ -1,11 +1,11 @@
 * README_EN.txt
-* 2017.08.25
+* 2020.02.10
 * External command line tools
 
 1. DESCRIPTION
 2. DEPENDENCIES
 3. REPOSITORIES
-4. AUTHOR EMAIL
+4. AUTHOR
 
 -------------------------------------------------------------------------------
 1. DESCRIPTION
@@ -46,6 +46,6 @@ Second mirror:
   * https://bitbucket.org/andry81/external_tools.git
 
 -------------------------------------------------------------------------------
-4. AUTHOR EMAIL
+4. AUTHOR
 -------------------------------------------------------------------------------
 andry at inbox dot ru
