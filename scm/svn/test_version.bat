@@ -35,8 +35,8 @@ set FIELD1_INDEX=1
 
 :FIELD1_LOOP
 set "FIELD1_VALUE="
-for /F "eol=	 tokens=%FIELD1_INDEX% delims=|" %%i in (%FIELD_VALUE%) do set "FIELD1_VALUE=%%i"
-if "%FIELD1_VALUE%" == "" exit /b 0
+for /F "eol= tokens=%FIELD1_INDEX% delims=|" %%i in (%FIELD_VALUE%) do set "FIELD1_VALUE=%%i"
+if not defined FIELD1_VALUE exit /b 0
 
 set "TOOLSET_BIN_ROOT=%TEST_ROOT%%TOOLSET_ROOT_DIR%/%FIELD1_VALUE%"
 set "TOOLSET_BIN_ROOT=%TOOLSET_BIN_ROOT:/=\%"
