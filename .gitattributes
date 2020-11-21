@@ -1,4 +1,5 @@
 * text=auto !eol
+.github/FUNDING.yml -text
 /README_EN.txt -text
 deps/Windows[!!-~]Kits/10/Redist/ucrt/DLLs/x64/api-ms-win-core-console-l1-1-0.dll -text
 deps/Windows[!!-~]Kits/10/Redist/ucrt/DLLs/x64/api-ms-win-core-datetime-l1-1-0.dll -text
